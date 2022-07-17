@@ -1,10 +1,15 @@
 ### Hi there 👋
 
+![cyj1322's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyj1322&show_icons=true&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyj1322)](https://github.com/cyj1322/github-readme-stats)
+
 ### Tier 👑
 <a href="https://opgc.me/#/users/cyj1322" target="_blank"><img src="https://api.opgc.me/githubs/users/cyj1322/tag/?theme=basic" /></a>
 
 ### Tech
 <img src="https://img.shields.io/badge/Node-68A063?style=flat-square&logo=node.js&logoColor=white"/>
+
 <!--
 **cyj1322/cyj1322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
