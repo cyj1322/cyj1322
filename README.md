@@ -8,7 +8,7 @@
 <a href="https://opgc.me/#/users/cyj1322" target="_blank"><img src="https://api.opgc.me/githubs/users/cyj1322/tag/?theme=basic" /></a>
 
 ### Tech
-<img src="https://img.shields.io/badge/Node-68A063?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node-68A063?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-007acc?style=flat-square&logo=typescript&logoColor=white"/>
 
 <!--
 **cyj1322/cyj1322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
