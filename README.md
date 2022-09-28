@@ -1,8 +1,10 @@
 ### Hi there 👋👋👋👋👋👋👋👋👋👋
 
+<!--
 ![cyj1322's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyj1322&show_icons=true&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyj1322)](https://github.com/cyj1322/github-readme-stats)
+-->
 
 ### Tier 👑
 <a href="https://opgc.me/#/users/cyj1322" target="_blank"><img src="https://api.opgc.me/githubs/users/cyj1322/tag/?theme=basic" /></a>
